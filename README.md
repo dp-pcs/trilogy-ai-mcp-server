@@ -1,1 +1,0 @@
-# Trilogy AI MCP Server
